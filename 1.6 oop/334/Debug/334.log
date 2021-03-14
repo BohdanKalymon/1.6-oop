@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  334.cpp
+C:\Users\ricky\source\repos\1.6 oop\334\334.cpp(15,8): warning C4101: 'age': unreferenced local variable
+     Creating library C:\Users\ricky\source\repos\1.6 oop\Debug\334.lib and object C:\Users\ricky\source\repos\1.6 oop\Debug\334.exp
+  334.vcxproj -> C:\Users\ricky\source\repos\1.6 oop\Debug\334.dll
